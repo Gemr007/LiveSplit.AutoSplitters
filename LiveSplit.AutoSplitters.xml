@@ -19438,3 +19438,13 @@
         <Description>quests auto splitting, remove all splits for Any%, made by rumii</Description>
     </AutoSplitter>
 </AutoSplitters>
+    <Games>
+        <Game>Metro: Last Light</Game>
+    </Games>
+<URLs>
+    <URL>https://github.com/Gemr007/Metro-Last-Light-Original-Load-Remover-for-Livesplit.git</URL>
+</URLs>
+<Type>Script</Type>
+<Description>Load Remover for Metro: Last Light (by: M_E_T_A_L_I_S_T___S_P_1_D)</Description>
+</AutoSplitter>
+</AutoSplitters>
