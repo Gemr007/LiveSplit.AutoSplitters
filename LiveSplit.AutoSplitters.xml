@@ -8334,6 +8334,16 @@
         <Type>Script</Type>
         <Description>Load Removal and Autosplitting is available. (By Ekelbatzen)</Description>
     </AutoSplitter>
+ <AutoSplitter>
+ <Games>
+ <Game>Metro Last Light</Game>
+ </Games>
+ <URLs>
+ <URL>https://raw.githubusercontent.com/Gemr007/Metro-Last-Light-Original-Load-Remover-for-Livesplit/main/MetroLL_LR.asl</URL>
+ </URLs>
+ <Type>Script</Type>
+ <Description>Load Removal is avaiable (By: M_E_T_A_L_I_S_T___S_P_1_D)</Description>
+ </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Return to Castle Wolfenstein</Game>
